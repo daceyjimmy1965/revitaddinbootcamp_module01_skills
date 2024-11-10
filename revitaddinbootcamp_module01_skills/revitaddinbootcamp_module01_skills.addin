@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command1</Text>
+    <Description>Some description</Description>
+    <Assembly>C:\Users\billy\AppData\Roaming\Autodesk\Revit\Addins\2024\revitaddinbootcamp_module01_skills\revitaddinbootcamp_module01_skills.dll</Assembly>
+    <FullClassName>revitaddinbootcamp_module01_skills.Command1</FullClassName>
+    <ClientId>d948ffc6-5b1e-44bf-b626-e6e8e166ec7c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Command2</Text>
+    <Description>Some description</Description>
+    <Assembly>C:\Users\billy\AppData\Roaming\Autodesk\Revit\Addins\2024\revitaddinbootcamp_module01_skills\revitaddinbootcamp_module01_skills.dll</Assembly>
+    <FullClassName>revitaddinbootcamp_module01_skills.Command2</FullClassName>
+    <ClientId>1a4096e1-0d3d-41fd-93b1-9c2737e677e6</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>Command3</Text>
+		<Description>Some description</Description>
+		<Assembly>C:\Users\billy\AppData\Roaming\Autodesk\Revit\Addins\2024\revitaddinbootcamp_module01_skills\revitaddinbootcamp_module01_skills.dll</Assembly>
+		<FullClassName>revitaddinbootcamp_module01_skills.Command3</FullClassName>
+		<ClientId>2CF18C88-99C1-40FC-BE59-9D46627A6646</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>revitaddinbootcamp_module01_skills - Module01Challenge</Text>
+		<Description>Some description</Description>
+		<Assembly>C:\Users\billy\AppData\Roaming\Autodesk\Revit\Addins\2024\revitaddinbootcamp_module01_skills\revitaddinbootcamp_module01_skills.dll</Assembly>
+		<FullClassName>revitaddinbootcamp_module01_skills.Module01Challenge</FullClassName>
+		<ClientId>0601EEC9-CD82-4ACE-AAA5-CCF3A43ECA73</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+  <AddIn Type="Application">
+    <Name>revitaddinbootcamp_module01_skills</Name>
+    <Assembly>C:\Users\billy\AppData\Roaming\Autodesk\Revit\Addins\2024\revitaddinbootcamp_module01_skills\revitaddinbootcamp_module01_skills.dll</Assembly>
+    <FullClassName>revitaddinbootcamp_module01_skills.App</FullClassName>
+    <ClientId>a16b916d-c14b-4bf1-8bda-d8a244e77ef2</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
